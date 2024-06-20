@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "test-semantic-chunker"
+version = "0.1.0"
+description = ""
+authors = ["ken_kawasaki <ken_kawasaki@mcinc.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
